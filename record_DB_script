@@ -1,0 +1,274 @@
+Script started on 2019-09-28 23:55:32-0500
+]0;vuong034@vuong034-VirtualBox: ~/Desktop/3101/vuong034lab2[01;32mvuong034@vuong034-VirtualBox[00m:[01;34m~/Desktop/3101/vuong034lab2[00m$ exit[2Pls./record_DBgcc record_DB.c -o record_DB
+]0;vuong034@vuong034-VirtualBox: ~/Desktop/3101/vuong034lab2[01;32mvuong034@vuong034-VirtualBox[00m:[01;34m~/Desktop/3101/vuong034lab2[00m$ gcc record_DB.c -o record_DBexit[K[2Pls./record_DB
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+3
+Current size of Database: 5 records
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+afd
+Please input a valid option
+
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+
+Please input a valid option
+
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+2
+Please enter a number of records to print: (current # of records 5)
+3
+
+ Printing 3 records:
+ firstname: jon last name: doe id: 1094
+ firstname: jess last name: dawn id: 9445
+ firstname: joe last name: den id: 7965
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+0
+Please input a valid option
+
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+4
+Please enter first name, last name, and id seperated by a space
+thomas engol 9999
+student added to record: firstname: thomas last name: engol id: 9999
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+4
+Please enter first name, last name, and id seperated by a space
+fads
+Input not valid
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+4
+Please enter first name, last name, and id seperated by a space
+
+Input not valid
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+del   5
+record in database deleted
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+2
+Please enter a number of records to print: (current # of records 5)
+3 5
+
+ Printing 5 records:
+ firstname: jon last name: doe id: 1094
+ firstname: jess last name: dawn id: 9445
+ firstname: joe last name: den id: 7965
+ firstname: jim last name: dourn id: 7532
+ firstname: jake last name: dessa id: 2470
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+5
+record in database deleted
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+5
+record in database deleted
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+5
+record in database deleted
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+5
+record in database deleted
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+5
+record in database deleted
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+5
+No records to delete!
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+3
+Current size of Database: 0 records
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+6
+Number of accesses to database: 9
+
+MENU
+=====
+Enter selection :
+ 1: Print all records 
+ 2: Print number of records 
+ 3: Print size of database 
+ 4: Add record 
+ 5: Delete record 
+ 6: Prints number of accesses to database
+ 7: Quit
+7
+quitting
+]0;vuong034@vuong034-VirtualBox: ~/Desktop/3101/vuong034lab2[01;32mvuong034@vuong034-VirtualBox[00m:[01;34m~/Desktop/3101/vuong034lab2[00m$ exit
+exit
+
+Script done on 2019-09-28 23:58:51-0500
